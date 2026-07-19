@@ -1,16 +1,19 @@
-## Hi there 👋
+﻿### Привет 👋
 
-<!--
-**Servandeath/Servandeath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу инструменты для интеграций с российскими маркетплейсами и
+логистическими сервисами — Wildberries, Ozon, Lamoda, МойСклад,
+Деловые Линии. Каждый репозиторий — рабочий инструмент, решающий
+конкретную операционную задачу продавца: генерация и учёт кодов,
+работа с API, автоматизация рутины.
 
-Here are some ideas to get you started:
+**Стек:** Python (tkinter / PySide6 / SQLite), иногда Node.js —
+выбираю под задачу, а не подгоняю задачу под любимый стек.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Подход:** тестами покрываю логику до GUI, коммичу маленькими
+шагами, документирую бизнес-контекст в README каждого репозитория —
+не просто "что делает код", а "зачем он вообще нужен".
+
+---
+
+📌 Закреплённые репозитории ниже показывают то, над чем работаю
+сейчас или чем горжусь больше всего.
